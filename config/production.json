@@ -1,0 +1,4 @@
+{
+  "databaseAddress": "mongodb://localhost:27017/nodefood",
+  "jwtPrivateKey": "NodeCoursePrivateKey"
+}
